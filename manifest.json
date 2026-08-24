@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.8/kodi-simkl-build-0.1.8.zip",
-  "sha256": "b170014e036f1da7057db000aec18b821627c5fdc9b1b4a30b432d1c2da67722",
-  "release_notes": "Fixes Arctic Horizon 2 closing after activation, suppresses missing optional Seren add-on errors, adds a studio-logo fallback, and clarifies first-run database initialization."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.9/kodi-simkl-build-0.1.9.zip",
+  "sha256": "6d007273aa67910c22c2aa6e9ab392f3434f30ff65538e43eb012183b708415a",
+  "release_notes": "Publishes the verified live Kodi profile with the Setup top menu and persistent Build Setup back-navigation, while retaining all fixes from v0.1.5 through v0.1.8."
 }
