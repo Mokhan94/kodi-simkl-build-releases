@@ -22,3 +22,6 @@ sources, and updater state.
 For a fresh Kodi 21 installation, download `mokhan-build-installer-0.1.1.zip`
 from the latest release, install it with Kodi's **Install from zip file** menu,
 then open **Mokhan Build Updater** and choose **Check for updates**.
+
+Kodi can also add the GitHub Pages address as a File Manager source:
+`https://mokhan94.github.io/kodi-simkl-build-releases/`
