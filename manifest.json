@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.2/kodi-simkl-build-0.1.2.zip",
-  "sha256": "34656bc9f6e8319286c65c46189e244ec5bd989d65236bb785e06a0e775f7d3a",
-  "release_notes": "Fix Android permission errors when replacing existing add-on files."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.3/kodi-simkl-build-0.1.3.zip",
+  "sha256": "e13de1c29b77049ec9895634705301e83600161c85b4d77f6331b956782663fc",
+  "release_notes": "Restore the source build enabled add-ons and Arctic Horizon 2 skin automatically after installation."
 }
