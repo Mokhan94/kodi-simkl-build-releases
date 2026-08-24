@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.1/kodi-simkl-build-0.1.1.zip",
-  "sha256": "dcc7bdbf951508c71059ff6604d73693723d24b6fabf608aa77ba0633755928a",
-  "release_notes": "First remotely installable Kodi Simkl build for Kodi 21."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.2/kodi-simkl-build-0.1.2.zip",
+  "sha256": "34656bc9f6e8319286c65c46189e244ec5bd989d65236bb785e06a0e775f7d3a",
+  "release_notes": "Fix Android permission errors when replacing existing add-on files."
 }
