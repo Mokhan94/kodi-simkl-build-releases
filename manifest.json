@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "",
-  "sha256": "",
-  "release_notes": "Public update channel initialized. No update is required for build 0.1.0."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.1/kodi-simkl-build-0.1.1.zip",
+  "sha256": "dcc7bdbf951508c71059ff6604d73693723d24b6fabf608aa77ba0633755928a",
+  "release_notes": "First remotely installable Kodi Simkl build for Kodi 21."
 }
