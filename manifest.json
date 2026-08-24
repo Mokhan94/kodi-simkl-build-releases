@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "name": "Kodi Simkl Build",
+  "version": "0.1.0",
+  "channel": "stable",
+  "minimum_kodi": 21,
+  "package_url": "",
+  "sha256": "",
+  "release_notes": "Public update channel initialized. No update is required for build 0.1.0."
+}

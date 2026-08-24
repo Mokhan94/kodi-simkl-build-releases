@@ -1,0 +1,7 @@
+*.tmp
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*qr.png
+dist/
