@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.7/kodi-simkl-build-0.1.7.zip",
-  "sha256": "04ea530f95196a87884b2a10d3dd9510bacc78ab11ca1c299778a9fc850f8829",
-  "release_notes": "Improves Arctic Horizon 2 activation verification and exposes exact updater activation diagnostics in Build Setup."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.8/kodi-simkl-build-0.1.8.zip",
+  "sha256": "b170014e036f1da7057db000aec18b821627c5fdc9b1b4a30b432d1c2da67722",
+  "release_notes": "Fixes Arctic Horizon 2 closing after activation, suppresses missing optional Seren add-on errors, adds a studio-logo fallback, and clarifies first-run database initialization."
 }
