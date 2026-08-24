@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.9/kodi-simkl-build-0.1.9.zip",
-  "sha256": "6d007273aa67910c22c2aa6e9ab392f3434f30ff65538e43eb012183b708415a",
-  "release_notes": "Publishes the verified live Kodi profile with the Setup top menu and persistent Build Setup back-navigation, while retaining all fixes from v0.1.5 through v0.1.8."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.10/kodi-simkl-build-0.1.10.zip",
+  "sha256": "277cae17b4e0494ed09432f7d205b163ed6b5a3ccae5d7e5e7b297a388e32e2f",
+  "release_notes": "Fixes portable Simkl In-Progress TV Shows and In-Progress Episodes across devices, resolves missing show IDs through TMDb, and clears stale widget mappings after updates."
 }
