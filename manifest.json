@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.4/kodi-simkl-build-0.1.4.zip",
-  "sha256": "0f53832f5d94d531ff9e2bd364eb0292c1d3e624f51a7b019ac24f2cca14bc8c",
-  "release_notes": "Retry add-on and Arctic Horizon 2 activation; add manual activation and error-log recovery; remove standalone Trakt add-on and profile data."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.5/kodi-simkl-build-0.1.5.zip",
+  "sha256": "63a6bbd567a810e0285cca5632ec3a005336bd0ac824d0cad1179bb10274ec3e",
+  "release_notes": "Restore Seren database cache Python module omitted by earlier sanitization; retain activation and Trakt cleanup fixes."
 }
