@@ -11,7 +11,7 @@ copies of **Mokhan Build Updater**.
 ## Channel
 
 - Manifest: `manifest.json`
-- Current build version: `0.1.3`
+- Current build version: `0.1.4`
 - Minimum Kodi version: 21
 
 Release packages are ZIP files whose installable files are contained under a
@@ -19,7 +19,7 @@ Release packages are ZIP files whose installable files are contained under a
 installation and preserve account settings, databases, logs, profiles, Kodi
 sources, and updater state.
 
-For a fresh Kodi 21 installation, download `mokhan-build-installer-0.1.3.zip`
+For a fresh Kodi 21 installation, download `mokhan-build-installer-0.1.4.zip`
 from the latest release, install it with Kodi's **Install from zip file** menu,
 then open **Mokhan Build Updater** and choose **Check for updates**.
 

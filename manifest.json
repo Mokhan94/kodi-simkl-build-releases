@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.3/kodi-simkl-build-0.1.3.zip",
-  "sha256": "e13de1c29b77049ec9895634705301e83600161c85b4d77f6331b956782663fc",
-  "release_notes": "Restore the source build enabled add-ons and Arctic Horizon 2 skin automatically after installation."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.4/kodi-simkl-build-0.1.4.zip",
+  "sha256": "0f53832f5d94d531ff9e2bd364eb0292c1d3e624f51a7b019ac24f2cca14bc8c",
+  "release_notes": "Retry add-on and Arctic Horizon 2 activation; add manual activation and error-log recovery; remove standalone Trakt add-on and profile data."
 }
