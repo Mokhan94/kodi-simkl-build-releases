@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.6/kodi-simkl-build-0.1.6.zip",
-  "sha256": "dc6646409887d9ba16eb875b7c73d135c3caa3ad6618bf49c1629961ca9eccc8",
-  "release_notes": "Add Build Setup with managed install/version status, Simkl and debrid authorization status, account connection actions, protected credentials, and reliable cancel navigation."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.7/kodi-simkl-build-0.1.7.zip",
+  "sha256": "04ea530f95196a87884b2a10d3dd9510bacc78ab11ca1c299778a9fc850f8829",
+  "release_notes": "Improves Arctic Horizon 2 activation verification and exposes exact updater activation diagnostics in Build Setup."
 }
