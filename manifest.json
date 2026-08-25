@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.21/kodi-simkl-build-0.1.21.zip",
-  "sha256": "68377c8f703d04eada594f5926a81548a594edb1bbb0c741f4c48a9e78522fb5",
-  "release_notes": "Refreshes Simkl widgets immediately after authorization, activates newly connected Seren debrid accounts without restarting Kodi, improves Android pause/resume Simkl syncing, and fixes Build Setup Cancel navigation."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.22/kodi-simkl-build-0.1.22.zip",
+  "sha256": "56d4e71182f54b09a52e504c238e97ea3e33baba44ab00f44e3d2f7b44c91f4c",
+  "release_notes": "Keeps Build Setup available after Simkl and debrid authorization, automatically enables the authorized Seren debrid provider, and preserves the customized Home menu with only Trending Movies and Trending TV Shows."
 }
