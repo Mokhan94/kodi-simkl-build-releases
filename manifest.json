@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.14/kodi-simkl-build-0.1.14.zip",
-  "sha256": "cd59fa01967d99cd02ba09c8d8df150e9d983f588efa438c076bc769599cfeda",
-  "release_notes": "Prevents Android storage exhaustion by removing automatic full-build backups and rollback archives, purging legacy updater downloads/backups at startup, and deleting each downloaded update package after installation."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.15/kodi-simkl-build-0.1.15.zip",
+  "sha256": "c52e644ce230fded8cf51d8ab7fe09115d207f995a48cb9d622819f3c1206ed8",
+  "release_notes": "Fixes fresh-install skin activation by scheduling add-on enablement and Arctic Horizon 2 application during a clean Kodi restart. Also prevents background storage cleanup from interfering with an active build installation."
 }
