@@ -5,6 +5,6 @@
   "channel": "stable",
   "minimum_kodi": 21,
   "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.20/kodi-simkl-build-0.1.20.zip",
-  "sha256": "ff018b1d163b6a963e105df596959c5f8ce0b7d687fdecd92e203f338c5999ab",
+  "sha256": "c0225bba4a88c4c63f9babbdc92159f24f6c1c460cf2c259457daca1760bb9bc",
   "release_notes": "Improves Simkl playback capture for direct addon playback, refreshes in-progress widgets after pauses, and corrects the In-Progress TV Shows widget mapping."
 }
