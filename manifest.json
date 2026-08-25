@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.17/kodi-simkl-build-0.1.17.zip",
-  "sha256": "71a9138d845d2c2a87e90727a53d5424ed588b809ed1baf9c1e685e529907570",
-  "release_notes": "Fixes first-run Arctic Horizon 2 activation by accepting Kodi skin confirmation and waiting for the change to persist. Also uses an Android-compatible PNG and suppresses optional add-on resource errors."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.18/kodi-simkl-build-0.1.18.zip",
+  "sha256": "9d85bde751b1b93bf372b6e72c1a55fa3cfe78ff777eca81c1cfa32d2751375e",
+  "release_notes": "Opens Build Setup after successful first-run activation so users can connect Simkl and debrid accounts. Also suppresses optional Otaku status errors when Otaku is not installed."
 }
