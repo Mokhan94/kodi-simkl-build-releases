@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.10/kodi-simkl-build-0.1.10.zip",
-  "sha256": "277cae17b4e0494ed09432f7d205b163ed6b5a3ccae5d7e5e7b297a388e32e2f",
-  "release_notes": "Fixes portable Simkl In-Progress TV Shows and In-Progress Episodes across devices, resolves missing show IDs through TMDb, and clears stale widget mappings after updates."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.11/kodi-simkl-build-0.1.11.zip",
+  "sha256": "9145808d42c15088118f1dd265d6d04c485ab5f0034520a0b6f7f40f80d431d7",
+  "release_notes": "Adds the Otaku Testing anime section and player integration, separates Simkl TV and anime progress lists, bundles required Otaku dependencies, and expands Build Setup with reliable Simkl and debrid authorization menus."
 }
