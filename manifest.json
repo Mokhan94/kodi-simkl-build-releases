@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.12/kodi-simkl-build-0.1.12.zip",
-  "sha256": "d2bdd22787efb7b58f81e7aa01ddd5077e8a55fe6b81fb813c58efb1e8b65728",
-  "release_notes": "Improves Build Setup diagnostics by showing complete Kodi and add-on traceback context, including the detailed cause of Otaku database and authorization errors."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.13/kodi-simkl-build-0.1.13.zip",
+  "sha256": "326e60df94251875e3b1bdc7b2d2e4c93db3e4da9faf2b20bca9c5648f9e805c",
+  "release_notes": "Makes Otaku Testing an optional managed installation. Build Setup can install, open, configure, update, or repair Otaku while the core build no longer bundles Otaku, its context add-on, pyQRcode dependency, or Otaku user data."
 }
