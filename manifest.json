@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.15/kodi-simkl-build-0.1.15.zip",
-  "sha256": "c52e644ce230fded8cf51d8ab7fe09115d207f995a48cb9d622819f3c1206ed8",
-  "release_notes": "Fixes fresh-install skin activation by scheduling add-on enablement and Arctic Horizon 2 application during a clean Kodi restart. Also prevents background storage cleanup from interfering with an active build installation."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.16/kodi-simkl-build-0.1.16.zip",
+  "sha256": "28638706b1d0f6c2cf4b4c07f9ad029ec742909600f46cdbfb12154600a1b7ba",
+  "release_notes": "Adds a guarded first-run bootstrap with blocking progress, Arctic Horizon 2 dependency verification, controlled skin reload, crash-loop protection, and a persistent activation error report."
 }
