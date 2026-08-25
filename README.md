@@ -11,7 +11,7 @@ copies of **Build Setup**.
 ## Channel
 
 - Manifest: `manifest.json`
-- Current build version: `0.1.14`
+- Current build version: `0.1.21`
 - Minimum Kodi version: 21
 
 Release packages are ZIP files whose installable files are contained under a

@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.20/kodi-simkl-build-0.1.20.zip",
-  "sha256": "c0225bba4a88c4c63f9babbdc92159f24f6c1c460cf2c259457daca1760bb9bc",
-  "release_notes": "Improves Simkl playback capture for direct addon playback, refreshes in-progress widgets after pauses, and corrects the In-Progress TV Shows widget mapping."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.21/kodi-simkl-build-0.1.21.zip",
+  "sha256": "68377c8f703d04eada594f5926a81548a594edb1bbb0c741f4c48a9e78522fb5",
+  "release_notes": "Refreshes Simkl widgets immediately after authorization, activates newly connected Seren debrid accounts without restarting Kodi, improves Android pause/resume Simkl syncing, and fixes Build Setup Cancel navigation."
 }
