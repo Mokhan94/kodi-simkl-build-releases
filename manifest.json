@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.13/kodi-simkl-build-0.1.13.zip",
-  "sha256": "326e60df94251875e3b1bdc7b2d2e4c93db3e4da9faf2b20bca9c5648f9e805c",
-  "release_notes": "Makes Otaku Testing an optional managed installation. Build Setup can install, open, configure, update, or repair Otaku while the core build no longer bundles Otaku, its context add-on, pyQRcode dependency, or Otaku user data."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.14/kodi-simkl-build-0.1.14.zip",
+  "sha256": "cd59fa01967d99cd02ba09c8d8df150e9d983f588efa438c076bc769599cfeda",
+  "release_notes": "Prevents Android storage exhaustion by removing automatic full-build backups and rollback archives, purging legacy updater downloads/backups at startup, and deleting each downloaded update package after installation."
 }
