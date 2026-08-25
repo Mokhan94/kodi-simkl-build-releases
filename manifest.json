@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.19/kodi-simkl-build-0.1.19.zip",
-  "sha256": "57c1e16339291b34c33e7cbd279d4c0634ba0f0228930505e32baa91a1e930d5",
-  "release_notes": "Improves optional Otaku Testing installation on Android by waiting for repository refresh, letting Kodi resolve dependencies, showing progress, and allowing more time on slower devices."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.20/kodi-simkl-build-0.1.20.zip",
+  "sha256": "ff018b1d163b6a963e105df596959c5f8ce0b7d687fdecd92e203f338c5999ab",
+  "release_notes": "Improves Simkl playback capture for direct addon playback, refreshes in-progress widgets after pauses, and corrects the In-Progress TV Shows widget mapping."
 }
