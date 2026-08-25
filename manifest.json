@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.18/kodi-simkl-build-0.1.18.zip",
-  "sha256": "9d85bde751b1b93bf372b6e72c1a55fa3cfe78ff777eca81c1cfa32d2751375e",
-  "release_notes": "Opens Build Setup after successful first-run activation so users can connect Simkl and debrid accounts. Also suppresses optional Otaku status errors when Otaku is not installed."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.19/kodi-simkl-build-0.1.19.zip",
+  "sha256": "57c1e16339291b34c33e7cbd279d4c0634ba0f0228930505e32baa91a1e930d5",
+  "release_notes": "Improves optional Otaku Testing installation on Android by waiting for repository refresh, letting Kodi resolve dependencies, showing progress, and allowing more time on slower devices."
 }
