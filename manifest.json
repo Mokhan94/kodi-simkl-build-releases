@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "name": "Kodi Simkl Build",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "channel": "stable",
   "minimum_kodi": 21,
-  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.11/kodi-simkl-build-0.1.11.zip",
-  "sha256": "9145808d42c15088118f1dd265d6d04c485ab5f0034520a0b6f7f40f80d431d7",
-  "release_notes": "Adds the Otaku Testing anime section and player integration, separates Simkl TV and anime progress lists, bundles required Otaku dependencies, and expands Build Setup with reliable Simkl and debrid authorization menus."
+  "package_url": "https://github.com/Mokhan94/kodi-simkl-build-releases/releases/download/v0.1.12/kodi-simkl-build-0.1.12.zip",
+  "sha256": "d2bdd22787efb7b58f81e7aa01ddd5077e8a55fe6b81fb813c58efb1e8b65728",
+  "release_notes": "Improves Build Setup diagnostics by showing complete Kodi and add-on traceback context, including the detailed cause of Otaku database and authorization errors."
 }
